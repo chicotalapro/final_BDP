@@ -2,5 +2,5 @@
 
 
 open terminal and run this script
-npm run serve
+--npm run serve
 
